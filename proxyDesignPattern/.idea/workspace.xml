@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b41cc7e-421d-4c4f-a2a7-ea59d5d38cb1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1b3pEXa2jaESAvHhXCpkBhuBn4C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chainOfResponsibility" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="model.Main" />
+      <module name="proxyDesignPattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b41cc7e-421d-4c4f-a2a7-ea59d5d38cb1" name="Default Changelist" comment="" />
+      <created>1560125156212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560125156212</updated>
+      <workItem from="1560125159272" duration="3072000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3072000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="960" y="437" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1630274556214">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="437" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630274556214" />
+    <state width="2517" height="183" key="GridCell.Tab.0.bottom" timestamp="1630274565705">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="183" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630274565705" />
+    <state width="2517" height="183" key="GridCell.Tab.0.center" timestamp="1630274565705">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="183" key="GridCell.Tab.0.center/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630274565705" />
+    <state width="2517" height="183" key="GridCell.Tab.0.left" timestamp="1630274565704">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="183" key="GridCell.Tab.0.left/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630274565704" />
+    <state width="2517" height="183" key="GridCell.Tab.0.right" timestamp="1630274565705">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="183" key="GridCell.Tab.0.right/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630274565705" />
+    <state x="760" y="275" key="SettingsEditor" timestamp="1630211840968">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="760" y="275" key="SettingsEditor/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630211840968" />
+    <state x="1001" y="441" width="570" height="524" key="StructurePopup" timestamp="1630274372107">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1001" y="441" width="570" height="524" key="StructurePopup/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630274372107" />
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1630274681383">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630274681383" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1630272250187">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400/-1440.-465.1152.2008@0.0.2560.1400" timestamp="1630272250187" />
+  </component>
+</project>
